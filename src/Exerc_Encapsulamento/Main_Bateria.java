@@ -41,9 +41,9 @@ package Exerc_Encapsulamento;
 public class Main_Bateria {
     public static void main(String[] args) {
         //O programa deve definir um nível inicial.
-        BateriaCelular cell01 = new BateriaCelular(45);
+        BateriaCelular cell01 = new BateriaCelular(49);
         cell01.dados();
-        
+
         //Checagem inicial do status da bateria.
         cell01.status();
         
